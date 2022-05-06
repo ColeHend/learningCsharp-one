@@ -1,0 +1,15 @@
+/home/cole/Desktop/devmountain/postdev/learnCsharp/bin/Debug/net6.0/learnCsharp
+/home/cole/Desktop/devmountain/postdev/learnCsharp/bin/Debug/net6.0/learnCsharp.deps.json
+/home/cole/Desktop/devmountain/postdev/learnCsharp/bin/Debug/net6.0/learnCsharp.runtimeconfig.json
+/home/cole/Desktop/devmountain/postdev/learnCsharp/bin/Debug/net6.0/learnCsharp.dll
+/home/cole/Desktop/devmountain/postdev/learnCsharp/bin/Debug/net6.0/learnCsharp.pdb
+/home/cole/Desktop/devmountain/postdev/learnCsharp/obj/Debug/net6.0/learnCsharp.csproj.AssemblyReference.cache
+/home/cole/Desktop/devmountain/postdev/learnCsharp/obj/Debug/net6.0/learnCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/cole/Desktop/devmountain/postdev/learnCsharp/obj/Debug/net6.0/learnCsharp.AssemblyInfoInputs.cache
+/home/cole/Desktop/devmountain/postdev/learnCsharp/obj/Debug/net6.0/learnCsharp.AssemblyInfo.cs
+/home/cole/Desktop/devmountain/postdev/learnCsharp/obj/Debug/net6.0/learnCsharp.csproj.CoreCompileInputs.cache
+/home/cole/Desktop/devmountain/postdev/learnCsharp/obj/Debug/net6.0/learnCsharp.dll
+/home/cole/Desktop/devmountain/postdev/learnCsharp/obj/Debug/net6.0/refint/learnCsharp.dll
+/home/cole/Desktop/devmountain/postdev/learnCsharp/obj/Debug/net6.0/learnCsharp.pdb
+/home/cole/Desktop/devmountain/postdev/learnCsharp/obj/Debug/net6.0/learnCsharp.genruntimeconfig.cache
+/home/cole/Desktop/devmountain/postdev/learnCsharp/obj/Debug/net6.0/ref/learnCsharp.dll

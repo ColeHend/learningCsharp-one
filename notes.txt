@@ -1,0 +1,2 @@
+to compile: mcs -out:<name>.exe <Program Name>.cs
+to run: dotnet run
